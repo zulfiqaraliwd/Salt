@@ -1,0 +1,56 @@
+.logo-image{
+width: 165px;
+
+}
+
+.navbar{
+
+    padding: 15px;
+}
+.franchise-btn{
+    background: transparent;
+    padding: 15px 20px;
+border: 1px solid #ffffff;
+border-radius: 50px;
+width: 180px;
+height: 60px;
+}
+
+.order-btn{
+    background: #ff0000;
+    padding: 15px 20px;
+border: 1px solid #ffffff;
+border-radius: 50px;
+width: 180px;
+height: 60px;
+}
+.circle-btn{
+border-radius: 30px;
+background: #ffffff;
+color: #ff0000;
+padding: 10px 10px;
+
+}
+
+
+
+
+
+
+
+
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
